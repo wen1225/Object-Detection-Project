@@ -11,4 +11,6 @@ Step 1
 - Install Gueast Addition if VM doesn't allow drag n drop. Restart VM if needed.
   
  Step 2
- - Install "Anaconda Python 3.7" for Linux
+ - Install "Anaconda Python 3.7" for Linux with https://www.anaconda.com/distribution/
+   > Remember to select the right distribution (Linux) because the default download link is for Windows.
+ - Verify complete installation by following the instructions in https://docs.anaconda.com/anaconda/install/linux/
