@@ -14,3 +14,6 @@ Step 1
  - Install "Anaconda Python 3.7" for Linux with https://www.anaconda.com/distribution/
    > Remember to select the right distribution (Linux) because the default download link is for Windows.
  - Verify complete installation by following the instructions in https://docs.anaconda.com/anaconda/install/linux/
+   > If the hash code doesn't match, delete everything from Step 2 and try Step 2 again.
+   ! If 
+   
