@@ -5,8 +5,9 @@ Step 1
 - Allocate at least 20gb of space.
 - Make sure hardware settings in VB are reasonably high.
 - During installation, select "minimal installation".
-- Adjust screen resolution by going to the Settings
+- Adjust screen resolution by going to the Settings/Devices
   Optional: To fit display into screen, set VM to scaled mode.
+- Update software if needed.
   
  Step 2
  - Install "Anaconda Python 3.7" for Linux
