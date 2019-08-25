@@ -8,6 +8,7 @@ Step 1
 - Adjust screen resolution by going to the Settings/Devices
   Optional: To fit display into screen, set VM to scaled mode.
 - Update software if needed.
+- Install Gueast Addition if VM doesn't allow drag n drop. Restart VM if needed.
   
  Step 2
  - Install "Anaconda Python 3.7" for Linux
