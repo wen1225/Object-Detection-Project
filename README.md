@@ -17,4 +17,4 @@ Step 1
    > If the hash code doesn't match, delete everything from Step 2 and try Step 2 again.
  
 ***TIP*** 
-Instead of typing the entire .sh file one by one, press tab to have everything typed out for you; with the condition that you're in the directory that has that file (In our case, its in Downloads)
+Instead of typing the entire .sh file one by one, press tab to have everything typed out for you; with the condition that you're in the directory that has that file (In our case, it's in Downloads)
