@@ -1,4 +1,4 @@
-# Object-Detection-Project
+# Object-Detection-Project (https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks)
 
 Step 1 
 - Install Ubuntu for your VB here: https://ubuntu.com/#download
@@ -18,3 +18,8 @@ Step 1
  
 ***TIP*** 
 Instead of typing the entire .sh file one by one, press tab to have everything typed out for you; with the condition that you're in the directory that has that file (In our case, it's in Downloads)
+
+ Step 3
+ - Install Tensorflow by folowing the instructions under "Tensorflow CPU"
+   > We didn't choose to go with "Tensorflow GPU" due to hardware limitations.
+   > The part where it says, "Once you have activated your virtual environment, the name of the environment should be displayed..." doesn't apply to us since we're not using Linux.
