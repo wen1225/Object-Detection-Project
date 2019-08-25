@@ -1,4 +1,5 @@
-# Object-Detection-Project [source](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks)
+# Object-Detection-Project 
+[Original Guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks)
 
 Step 1 
 - Install Ubuntu for your VB here: https://ubuntu.com/#download
