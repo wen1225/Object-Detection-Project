@@ -30,4 +30,11 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
  
  ![screenshot_1](sc1.png)
  
+ > It's ok. Don't stress out. The error has something to do with compatibility of tensorflow and python. Just proceed to the next step.
+ 
+ - Prior to installing Tensorflow, we need to satisfy several software requirements; that is, we need to install some packages to ensure tensorflow runs.
+ 
+ - Begin by opening/using your terminal window (Ctrl+alt+T) and type `pip install --upgrade pip`.
+ 
+ 
    
