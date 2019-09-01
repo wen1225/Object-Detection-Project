@@ -27,6 +27,7 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
    > The part where it says, "Once you have activated your virtual environment, the name of the environment should be displayed..." doesn't apply to us since we're not using Windows.
  
  ***NOTE***
+ 
  ![screenshot_1](sc1.png)
  
    
