@@ -16,6 +16,8 @@ Step 1
    > Remember to select the right distribution (Linux) because the default download link is for Windows.
  - Verify complete installation by following the instructions in https://docs.anaconda.com/anaconda/install/linux/
    > If the hash code doesn't match, delete everything from Step 2 and try Step 2 again.
+ - Check its verison by typing `python3 --version`. Python has to be > 3.4.
+   > In my case, I'm had version 3.7.3.
  
 ***TIP*** 
 Instead of typing the entire .sh file one by one, press tab to have everything typed out for you; with the condition that you're in the directory that has that file (In our case, it's in Downloads)
@@ -34,10 +36,12 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
  
  - Prior to installing Tensorflow, we need to satisfy several software requirements; that is, we need to install some packages to ensure tensorflow runs.
  
- - Begin by opening/using your terminal window (Ctrl+alt+T) and type `pip install --upgrade pip`.
- > In my case, the latest version of pip is pip-19.2.3.
+ - Begin by opening/using your terminal window (Ctrl+alt+T) and type `pip install --upgrade pip`. *pip version must be >= 19.0
+ > In my case, the latest version of pip is pip-19.2.3. 
  
- - Then, type `pip install tensorflow`. If the terminal tells you that the requirement is already satisfied, good! If not, fix it by installing the required packages by `pip install name-of-missing-package-or-file`.
+ - Then, type `pip install tensorflow`. If the terminal tells you that the requirement is already satisfied, good! If not, fix it by installing the required packages by `sudo apt install name-of-missing-package-or-file`.
+ 
+ - Install virtualenv by typing `sudo apt install virtualenv` in your terminal. Make sure its 
  
  
    
