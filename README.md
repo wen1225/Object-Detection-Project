@@ -24,5 +24,5 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
  - Install Tensorflow by folowing the instructions under "Tensorflow CPU"
    > We didn't choose to go with "Tensorflow GPU" due to hardware limitations.
    
-   > The part where it says, "Once you have activated your virtual environment, the name of the environment should be displayed..." doesn't apply to us since we're not using Linux.
- - I tried
+   > The part where it says, "Once you have activated your virtual environment, the name of the environment should be displayed..." doesn't apply to us since we're not using Windows.
+   
