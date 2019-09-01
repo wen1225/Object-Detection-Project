@@ -50,7 +50,7 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
   
   Step 4
   - Creating your virtual environment
-  - 
+  
   
 
    
@@ -63,8 +63,6 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
  
  
  
- credits:
- https://www.tensorflow.org/install/pip
- https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks
+ 
  
    
