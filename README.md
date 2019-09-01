@@ -46,9 +46,9 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
  
   Step 4
   - Ensure proper/complete installation by copy/pasting the following the command into your terminal:
-  `sudo apt update` <\br>
-  `sudo apt install python3-dev python3-pip` <\br>
-  `sudo pip3 install -U virtualenv` <\br>
+  `sudo apt update` <br/>
+  `sudo apt install python3-dev python3-pip` <br/>
+  `sudo pip3 install -U virtualenv` <br/>
 
  
  
