@@ -35,6 +35,9 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
  - Prior to installing Tensorflow, we need to satisfy several software requirements; that is, we need to install some packages to ensure tensorflow runs.
  
  - Begin by opening/using your terminal window (Ctrl+alt+T) and type `pip install --upgrade pip`.
+ > In my case, the latest version of pip is pip-19.2.3.
+ 
+ - Then, type `pip install tensorflow`. If the terminal tells you that the requirement is already satisfied, good! If not, fix it by installing the required packages by `pip install name-of-missing-package-or-file`.
  
  
    
