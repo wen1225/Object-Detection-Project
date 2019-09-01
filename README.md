@@ -1,5 +1,7 @@
-# Object-Detection-Project 
-Click this to follow along: [Original Guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks)
+# Object-Detection-Project. 
+# Open these two links to follow along: <br/>
+![link1](https://www.tensorflow.org/install/pip) <br/>
+![link2](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks) <br/>
 
 Step 1 
 - Install Ubuntu for your VB here: https://ubuntu.com/#download
@@ -23,7 +25,7 @@ Step 1
 Instead of typing the entire .sh file one by one, press tab to have everything typed out for you; with the condition that you're in the directory that has that file (In our case, it's in Downloads)
 
  Step 3
- - Install Tensorflow by folowing the instructions under "Tensorflow CPU"
+ - Install Tensorflow by following the instructions under "Tensorflow CPU"
    > We didn't choose to go with "Tensorflow GPU" due to hardware limitations.
    
    > The part where it says, "Once you have activated your virtual environment, the name of the environment should be displayed..." doesn't apply to us since we're not using Windows.
@@ -43,14 +45,27 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
  
  - Install virtualenv by typing `sudo apt install virtualenv` in your terminal.
  
- 
-  Step 4
-  - Ensure proper/complete installation by copy/pasting the following the command into your terminal: <br/>
-  `sudo apt update` <br/>
+ - Ensure latest installation by copy/pasting the following the command into your terminal: <br/>
   `sudo apt install python3-dev python3-pip` <br/>
   `sudo pip3 install -U virtualenv` <br/>
+  
+  Step 4
+  - Creating your virtual environment
+  - 
+  
 
+   
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ credits:
+ https://www.tensorflow.org/install/pip
+ https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks
  
    
