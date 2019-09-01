@@ -27,5 +27,6 @@ Instead of typing the entire .sh file one by one, press tab to have everything t
    > The part where it says, "Once you have activated your virtual environment, the name of the environment should be displayed..." doesn't apply to us since we're not using Windows.
  
  ***NOTE***
- ![Installing_tensorflow](https://github.com/wen1225/Object-Detection-Project/blob/master/Screenshot%20from%202019-09-01%2009-51-52.xcf?raw=true)
+ ![screenshot_1](Screenshot from 2019-09-01 09-51-52.png)
+ 
    
