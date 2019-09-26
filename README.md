@@ -18,7 +18,7 @@ Step 1
  - Verify complete installation by following the instructions in https://docs.anaconda.com/anaconda/install/linux/
    > If the hash code doesn't match, delete everything from Step 2 and try Step 2 again.
  - Check its version by typing `python3 --version`. Python has to be > 3.4.
-   > In my case, I had version 3.7.3.
+   > In my case, I had version 3.6.8.
  
 ***TIP*** 
 Instead of typing the entire .sh file one by one, press tab to have everything typed out for you; with the condition that you're in the directory that has that file (In our case, it's in Downloads)
