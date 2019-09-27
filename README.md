@@ -13,7 +13,6 @@ Step 1
 - Once finished, go to the top right corner of Ubuntu and click the on/off symbol, then click "Power Off".
 - Now, in your VB, go to \Settings\General\Advanced\ to set "Drag'n'Drop" and "Shared Clipboard" to Bidirectional. 
 <br/>
-<br/>
 Optional: <br/>
 Adjust screen resolution by going to \Settings\Devices\Resolution\. <br/> 
 To fit display into screen, set VM to scaled mode.
