@@ -3,14 +3,23 @@
 ![link1](https://www.tensorflow.org/install/pip), ![link2](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks) 
 
 Step 1 
-- Install Ubuntu for your VB here: https://ubuntu.com/#download
+- Install Ubuntu 18.04 LTS for your VB here: https://ubuntu.com/#download
 - Allocate at least 20gb of space.
 - Make sure hardware settings in VB are reasonably high.
-- During installation, select "minimal installation".
-- Adjust screen resolution by going to the Settings/Devices
-  Optional: To fit display into screen, set VM to scaled mode.
-- Update software if needed.
-- Install Guest Addition if VM doesn't allow drag n drop. Restart VM if needed.
+- During installation, select "minimal installation" and uncheck "Download updates while installing Ubuntu".
+- Once finished, open the terminal and run `sudo apt install linux-headers-$(uname -r) build-essential dkms`
+- On the top left of your VB menu, select \Devices\Insert Guest Additions CD...\
+- Click "Run" when the pop-up comes.
+- Once finished, go to the top right corner of Ubuntu and click the on/off symbol, then click "Power Off".
+- Now, in your VB, go to \Settings\General\Advanced\ to set "Drag'n'Drop" and "Shared Clipboard" to Bidirectional. 
+<br/>
+<br/>
+Optional: <br/>
+Adjust screen resolution by going to \Settings\Devices\Resolution\. <br/> 
+To fit display into screen, set VM to scaled mode.
+<br/>
+<br/>
+
   
  Step 2
  - Install "Anaconda Python 3.7" for Linux with https://www.anaconda.com/distribution/
