@@ -1,4 +1,4 @@
-# Object-Detection-Project. 
+222# Object-Detection-Project. 
 - Open these two links to follow along: <br/>
 ![link1](https://www.tensorflow.org/install/pip), ![link2](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#general-remarks) 
 
@@ -16,10 +16,7 @@ Step 1
 Optional: <br/>
 Adjust screen resolution by going to \Settings\Devices\Resolution\. <br/> 
 To fit display into screen, set VM to scaled mode.
-<br/>
-<br/>
 
-  
  Step 2
  - Install "Anaconda Python 3.7" for Linux with https://www.anaconda.com/distribution/
    > Remember to select the right distribution (Linux) because the default download link is for Windows.
